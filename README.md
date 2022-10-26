@@ -9,7 +9,8 @@ To achieve this, the Observer design pattern introduces two roles: Subject and O
 The subject is the publisher of notifications which also defines a way for the observer to subscribe/unsubscribe from those notifications.
 A subject may have any number of dependent observers(one-to-many relationship in more flexible way rather than create a method to maintain the update logic on their own).
 ## ScreenShots
-(screen shot of observer design pattern usecase)[1.png]
+![screen shot of observer design pattern usecase](1.png)
+
 
 
 ## Getting Started
